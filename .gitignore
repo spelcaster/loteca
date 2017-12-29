@@ -1,0 +1,5 @@
+loteca
+Makefile
+**/**/CMakeCache.txt
+**/**/CMakeFiles/
+**/**/*.cmake
